@@ -1,0 +1,9 @@
+C:\Users\MANNY\source\repos\ImpresionRecibosAptiv\ImpresionRecibosAptiv\bin\Debug\ImpresionRecibosAptiv.exe.config
+C:\Users\MANNY\source\repos\ImpresionRecibosAptiv\ImpresionRecibosAptiv\bin\Debug\ImpresionRecibosAptiv.exe
+C:\Users\MANNY\source\repos\ImpresionRecibosAptiv\ImpresionRecibosAptiv\bin\Debug\ImpresionRecibosAptiv.pdb
+C:\Users\MANNY\source\repos\ImpresionRecibosAptiv\ImpresionRecibosAptiv\obj\Debug\ImpresionRecibosAptiv.csprojAssemblyReference.cache
+C:\Users\MANNY\source\repos\ImpresionRecibosAptiv\ImpresionRecibosAptiv\obj\Debug\ImpresionRecibosAptiv.FormBase.resources
+C:\Users\MANNY\source\repos\ImpresionRecibosAptiv\ImpresionRecibosAptiv\obj\Debug\ImpresionRecibosAptiv.Properties.Resources.resources
+C:\Users\MANNY\source\repos\ImpresionRecibosAptiv\ImpresionRecibosAptiv\obj\Debug\ImpresionRecibosAptiv.csproj.GenerateResource.cache
+C:\Users\MANNY\source\repos\ImpresionRecibosAptiv\ImpresionRecibosAptiv\obj\Debug\ImpresionRecibosAptiv.exe
+C:\Users\MANNY\source\repos\ImpresionRecibosAptiv\ImpresionRecibosAptiv\obj\Debug\ImpresionRecibosAptiv.pdb
